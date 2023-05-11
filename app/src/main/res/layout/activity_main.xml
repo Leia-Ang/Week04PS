@@ -21,7 +21,8 @@
             <EditText
                 android:id="@+id/editTextName"
                 android:layout_width="match_parent"
-                android:layout_height="wrap_content" />
+                android:layout_height="wrap_content"
+                android:inputType="text"/>
 
             <TextView
                 android:id="@+id/textViewTelephone"
@@ -48,7 +49,7 @@
                     android:layout_width="0dp"
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
-                    android:inputType="numberSigned" />
+                    android:inputType="number" />
 
                 <CheckBox
                     android:id="@+id/checkBoxSmoke"
@@ -86,7 +87,9 @@
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
                     android:text="@string/Reset" />
+
             </LinearLayout>
+
         </LinearLayout>
     </ScrollView>
 </LinearLayout>
