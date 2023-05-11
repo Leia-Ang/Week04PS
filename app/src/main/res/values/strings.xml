@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Week04PS</string>
+    <string name="reserve" />
+    <string name="smoke" />
+    <string name="reset" />
+    <string name="name" />
+    <string name="telephone" />
+    <string name="size" />
+    <string name="Reset">Reset</string>
+    <string name="Reserve">Reserve</string>
+    <string name="Smoke">Smoke</string>
+    <string name="Telephone">Telephone</string>
+    <string name="Name">Name</string>
+</resources>
